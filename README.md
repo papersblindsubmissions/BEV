@@ -150,14 +150,4 @@ To interact with the node.js application there are 2 Javascripts files, [calcula
 ## Experiments
 
 In the test directory there are log files collected during the experiments.
-Here are some videos where part of the experiments are shown:
-
-10 nodes experiment, configuring and running 10 nodes.
-This video shows how 10 nodes are configured, using a bash script that basically sets the moniker in the config.toml file, distributes the genesis.json file on all nodes and runs monit, which is used to run tendermint and bigchainDB, and monitor its running.
-[10 nodes configring and running](https://youtu.be/rmdGdgQCL5Q)
-
-
-
-10 nodes experiment, running the command monit status to check if bigchaindb and tendermint are running correctly:
-[10 nodes monit summary](https://youtu.be/KGfNkDOaj-w)
 
